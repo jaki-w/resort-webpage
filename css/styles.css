@@ -1,13 +1,20 @@
 body {
-  background-color: grey;
+  background-color: rgb(96, 192, 224);
   font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
+  color: lightblue;
   text-align: center;
 }
 
 #welcome {
-  border: solid black;
-  color: white;
+  border: solid white;
+  color: darkturquoise;
+}
+
+#learn-more {
+  text-align: center;
+  border: solid white;
+  color: darkturquoise; 
 }
