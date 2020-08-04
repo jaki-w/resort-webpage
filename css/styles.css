@@ -1,0 +1,13 @@
+body {
+  background-color: grey;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#welcome {
+  border: solid black;
+  color: white;
+}
